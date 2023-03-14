@@ -28,3 +28,8 @@ Klub má možnost spravovat členy a aktivity. Zároveň vidí úspěšnost/popu
 - chce vidět kdy má přijít na trénink
 - chce vidět zda jeho platba členského příspěvku proběhla v pořádku
 - chce upozornění na nové aktivity a nebo změny v kalendáři
+
+<h1>Příručka</h1>
+<h2>Dokumentace pro koncové uživatele</h2>
+
+<h2>schéma</h2
