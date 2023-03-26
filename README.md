@@ -30,6 +30,32 @@ Klub má možnost spravovat členy a aktivity. Zároveň vidí úspěšnost/popu
 - chce upozornění na nové aktivity a nebo změny v kalendáři
 
 <h1>Příručka</h1>
-<h2>Dokumentace pro koncové uživatele</h2>
+# Návod pro práci s mobilní aplikací UŽIVATEL
 
-<h2>schéma</h2
+## 1. Účel aplikace
+## 2. Kalendář
+### 2.1 Popis aktivity
+### 2.2 Zrušení aktivity
+### 2.3 Změna aktivity
+### 2.4 Záznam účasti
+## 3. Poznámky k výcviku
+### 3.1 Dlouhodobý plán
+### 3.2 Individuální poznámky
+## 4. Kontola členství
+### 4.1 Ověření člena
+### 4.2 Přidání/odebrání člena
+## 5. Obázkové manuály
+## 6. FAQ
+## 7. Kontakt na Support
+
+# Návod pro práci s mobilní aplikací SPRÁVCE
+
+## 1. Stuktura aplikace
+## 2. Databáze
+### 2.1 Popis struktury + diagam
+### 2.2 Jazyk + automatiké funke(makro)
+## 3. Informace o servru
+## 4. Dokumentace vlastnh funkcí
+## 5. Testování
+## 6 Možné a časté Chyby/errory
+## 7. Důležité referene a odkazy
